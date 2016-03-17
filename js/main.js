@@ -1,5 +1,6 @@
 $(function() {
-                console.log( "jQuery is loaded!" );
+    console.log( "jQuery is loaded!" );
+    console.log($.fn.jquery);
 });
 
 (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
